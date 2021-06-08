@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Laurenzel93/employee-directory/issues"
   },
-  "homepage": "https://github.com/Laurenzel93/employee-directory#readme"
+  "homepage": "https://github.com/Laurenzel93/employee-directory#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
 }
