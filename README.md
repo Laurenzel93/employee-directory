@@ -1,4 +1,4 @@
-# React Employee-Directoy
+# React User Directoy
 Deployed Link:  <br>
 GitHub Page: https://github.com/Laurenzel93/employee-directory <br>
 
@@ -16,6 +16,6 @@ The user should be able to:
   * Filter the users by at least one property.
 
 
-![Screenshot](assets/employee-directory1.png)
-![Screenshot](assets/employee-directory2.png)
-![Screenshot](assets/employee-directory3.png)
+![Screenshot](assets/user-directory1.png)
+![Screenshot](assets/user-directory2.png)
+![Screenshot](assets/user-directory3.png)
