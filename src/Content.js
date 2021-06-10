@@ -1,9 +1,8 @@
 import Table from './Table';
 
-const Content = () => {
+const Content = (props) => {
     return (
-        <container className="container">
-            <h1>Content</h1>
+        <container>
             <Table />
         </container>
     );
