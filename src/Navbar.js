@@ -1,4 +1,5 @@
 const Navbar = (props) => {
+
     return (
         <div className='jumbotron bg-primary'>
             <h1>User Directory</h1>
