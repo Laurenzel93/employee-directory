@@ -1,5 +1,5 @@
 # React User Directoy
-Deployed Link:  <br>
+Deployed Link:  https://laurenzel93.github.io/user-directory/<br>
 GitHub Page: https://github.com/Laurenzel93/employee-directory <br>
 
 ## User Story
